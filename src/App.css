@@ -1,1 +1,11 @@
 /* add your styles here */
+#parent{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#parent img{
+    width: 614px;
+    height: 614px;
+    margin: 5px;
+}
